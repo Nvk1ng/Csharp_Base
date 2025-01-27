@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Globalization;
-namespace Course
+
+namespace ConsoleApp1 
 {
     internal class Program
     {
