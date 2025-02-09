@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace List3
+namespace ex03
 {
     internal class Program
     {

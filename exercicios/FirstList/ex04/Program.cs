@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace List4
+namespace ex04
 {
     internal class Program
     {

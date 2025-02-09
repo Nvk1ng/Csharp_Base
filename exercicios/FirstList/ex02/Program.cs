@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace List2
+namespace ex02
 {
     internal class Program
     {

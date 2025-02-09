@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace List6
+namespace ex06
 {
     internal class Program
     {
