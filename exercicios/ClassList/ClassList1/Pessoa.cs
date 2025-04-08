@@ -1,4 +1,4 @@
-namespace classlist1{ 
+namespace ClassList1{ 
     class Pessoa{
         
         public string Nome;

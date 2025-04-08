@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace classlist1 {
+namespace ClassList1 {
     class Program {
         static void Main(string[] args) {
             Pessoa p1 = new Pessoa();

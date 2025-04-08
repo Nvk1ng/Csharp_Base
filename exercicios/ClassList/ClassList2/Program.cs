@@ -2,7 +2,7 @@
 using System.Globalization;
 using System.Runtime.CompilerServices;
 
-namespace classList2
+namespace ClassList2
 {
     internal class Program
     {
