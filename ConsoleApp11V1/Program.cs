@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace ConsoleApp11
+namespace ConsoleApp11V1
 {
     internal class Program
     {
